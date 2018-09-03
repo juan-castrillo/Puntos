@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">673457751494-h00809s95nldpvatpjn19gb79nd2u804.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://contador-497f5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">673457751494</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbYU8jgEYttpNsZyC7n-mvNShuN6Q2Q60</string>
+    <string name="google_app_id" translatable="false">1:673457751494:android:27ef1d37da71e449</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbYU8jgEYttpNsZyC7n-mvNShuN6Q2Q60</string>
+    <string name="google_storage_bucket" translatable="false">contador-497f5.appspot.com</string>
+    <string name="project_id" translatable="false">contador-497f5</string>
+</resources>

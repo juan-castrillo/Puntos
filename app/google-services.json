@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673457751494",
+    "firebase_url": "https://contador-497f5.firebaseio.com",
+    "project_id": "contador-497f5",
+    "storage_bucket": "contador-497f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673457751494:android:27ef1d37da71e449",
+        "android_client_info": {
+          "package_name": "puntos.juan.puntos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673457751494-484tqblbnfs5tb07b4rcnqom9jtln4ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "puntos.juan.puntos",
+            "certificate_hash": "dc5876f7782b7fecc1f06080a39dd9ed63c6d3ea"
+          }
+        },
+        {
+          "client_id": "673457751494-h00809s95nldpvatpjn19gb79nd2u804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYU8jgEYttpNsZyC7n-mvNShuN6Q2Q60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673457751494-h00809s95nldpvatpjn19gb79nd2u804.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

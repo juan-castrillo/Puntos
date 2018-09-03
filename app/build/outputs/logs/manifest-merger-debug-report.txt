@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/8f146f93edbb5ea665263194f67ccd0a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1ce562d2a0499d14e043412d8c5453e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/5bd086ad3b566353853de68dad5e70a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/3f711333d18df39899bc680c4e6e1f35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3c267bcddb636f11a6c5900d11f1adf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/1c69a62753843d071688990b404ec5e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/cadaf754a0b15f3073d9c4a7f5c043d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/696a8f1a2ae849b0170551cf144057f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/9691d2f2125047d1e5f853ca24a72c3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/97af83180bca32bbaf142bd7523826ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/4ddc5d3a21b543111d5c954d88a87738/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/ac1d3bf17014ecce746d445b79475c9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/328ccb60ebef950e479948edb0a52abe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/c58c158c3932d06cf7737980bf0ed06d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/151792086de4907e0412aff245a44cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/39808c73887c322435bbe2f377ec4cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/7885ce26962169236cae173f050fac02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/115832b32bce36190e66d21a10761f96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/1f12fc11a56d6da68347f145bef96718/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/92ae4b2b8d4bdd9508f2e121c65bc431/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b3bac9d512bb8bb1e1ee0492ee2ac81e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/65716b7675ecd36d6155ed4c571149c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/cb94f611519ef9b76d29be518be75dbd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/ef1cb6a42aca1827832f6257c6398e71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/02f89b5878cc4a1dda06a6a31cbc8c19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/ac90d140ba9e8c158b0a2c082f02e3aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/48fa33223724c8f9e297ac66f75b337d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/a5decb2a010093899d7d32af3b309cc2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/8f146f93edbb5ea665263194f67ccd0a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/8f146f93edbb5ea665263194f67ccd0a/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/1f12fc11a56d6da68347f145bef96718/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/1f12fc11a56d6da68347f145bef96718/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:11:9-40
+activity#puntos.juan.puntos.PuntuacionActivity
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:12:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/8f146f93edbb5ea665263194f67ccd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/8f146f93edbb5ea665263194f67ccd0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1ce562d2a0499d14e043412d8c5453e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/1ce562d2a0499d14e043412d8c5453e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/5bd086ad3b566353853de68dad5e70a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/5bd086ad3b566353853de68dad5e70a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/3f711333d18df39899bc680c4e6e1f35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/3f711333d18df39899bc680c4e6e1f35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3c267bcddb636f11a6c5900d11f1adf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3c267bcddb636f11a6c5900d11f1adf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/1c69a62753843d071688990b404ec5e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/1c69a62753843d071688990b404ec5e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/cadaf754a0b15f3073d9c4a7f5c043d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/cadaf754a0b15f3073d9c4a7f5c043d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/696a8f1a2ae849b0170551cf144057f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/696a8f1a2ae849b0170551cf144057f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/9691d2f2125047d1e5f853ca24a72c3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/9691d2f2125047d1e5f853ca24a72c3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/97af83180bca32bbaf142bd7523826ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/97af83180bca32bbaf142bd7523826ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/4ddc5d3a21b543111d5c954d88a87738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/4ddc5d3a21b543111d5c954d88a87738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/ac1d3bf17014ecce746d445b79475c9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/ac1d3bf17014ecce746d445b79475c9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/328ccb60ebef950e479948edb0a52abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/328ccb60ebef950e479948edb0a52abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/c58c158c3932d06cf7737980bf0ed06d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/c58c158c3932d06cf7737980bf0ed06d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/151792086de4907e0412aff245a44cc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/151792086de4907e0412aff245a44cc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/39808c73887c322435bbe2f377ec4cd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/39808c73887c322435bbe2f377ec4cd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/7885ce26962169236cae173f050fac02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/7885ce26962169236cae173f050fac02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/411292a14110d79df2b29ad4582c2a28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/115832b32bce36190e66d21a10761f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/115832b32bce36190e66d21a10761f96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/1f12fc11a56d6da68347f145bef96718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/1f12fc11a56d6da68347f145bef96718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/92ae4b2b8d4bdd9508f2e121c65bc431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/92ae4b2b8d4bdd9508f2e121c65bc431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b3bac9d512bb8bb1e1ee0492ee2ac81e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b3bac9d512bb8bb1e1ee0492ee2ac81e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/65716b7675ecd36d6155ed4c571149c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/65716b7675ecd36d6155ed4c571149c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/cb94f611519ef9b76d29be518be75dbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/cb94f611519ef9b76d29be518be75dbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/ef1cb6a42aca1827832f6257c6398e71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/ef1cb6a42aca1827832f6257c6398e71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/02f89b5878cc4a1dda06a6a31cbc8c19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/02f89b5878cc4a1dda06a6a31cbc8c19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/ac90d140ba9e8c158b0a2c082f02e3aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/ac90d140ba9e8c158b0a2c082f02e3aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/48fa33223724c8f9e297ac66f75b337d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/48fa33223724c8f9e297ac66f75b337d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/a5decb2a010093899d7d32af3b309cc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/juan/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/a5decb2a010093899d7d32af3b309cc2/AndroidManifest.xml:20:5-44
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/puntos/app/src/main/AndroidManifest.xml
